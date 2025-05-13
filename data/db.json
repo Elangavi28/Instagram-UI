@@ -1,0 +1,236 @@
+{
+  "Posts": [
+    {
+      "id": "1",
+      "user": {
+        "user_id": "user_789",
+        "username": "elangavi_28",
+        "profile_picture": "src/assets/dp.jpeg"
+      },
+      "image_url": "src/assets/post1.jpeg",
+      "caption": "Enjoying the sunset at the beach! 🌅 #vacation #sunset",
+      "likes": 150,
+      "is_liked_by_current_user": true,
+      "comments": [
+        {
+          "comment_id": "cmt_001",
+          "user": {
+            "user_id": "user_321",
+            "username": "jane_smith",
+            "profile_picture": "src/assets/post3"
+          },
+          "text": "Beautiful view! 😍",
+          "timestamp": "2025-05-06T10:15:30Z"
+        },
+        {
+          "comment_id": "cmt_002",
+          "user": {
+            "user_id": "user_654",
+            "username": "mike_lee",
+            "profile_picture": "src/assets/dp2.jpeg"
+          },
+          "text": "Wish I was there!",
+          "timestamp": "2025-05-06T11:00:00Z"
+        }
+      ],
+      "timestamp": "2025-05-06T09:00:00Z",
+      "location": "Malibu Beach, California",
+      "tags": [
+        "vacation",
+        "sunset",
+        "beach"
+      ]
+    },
+    {
+      "id": "2",
+      "user": {
+        "user_id": "user_789",
+        "username": "unique_person_mr",
+        "profile_picture": "src/assets/dp2.jpeg"
+      },
+      "image_url": "src/assets/dp2.jpeg",
+      "caption": "Enjoying the sunset at the beach! 🌅 #vacation #sunset",
+      "likes": 150,
+      "is_liked_by_current_user": true,
+      "comments": [
+        {
+          "comment_id": "cmt_001",
+          "user": {
+            "user_id": "user_321",
+            "username": "jane_smith",
+            "profile_picture": "src/assets/post3"
+          },
+          "text": "Beautiful view! 😍",
+          "timestamp": "2025-05-06T10:15:30Z"
+        },
+        {
+          "comment_id": "cmt_002",
+          "user": {
+            "user_id": "user_654",
+            "username": "mike_lee",
+            "profile_picture": "src/assets/dp2.jpeg"
+          },
+          "text": "Wish I was there!",
+          "timestamp": "2025-05-06T11:00:00Z"
+        }
+      ],
+      "timestamp": "2025-05-06T09:00:00Z",
+      "location": "Malibu Beach, California",
+      "tags": [
+        "vacation",
+        "sunset",
+        "beach"
+      ]
+    },
+    {
+      "id": "3",
+      "user": {
+        "user_id": "user_789",
+        "username": "vjvishva_g",
+        "profile_picture": "src/assets/dp3.jpeg"
+      },
+      "image_url": "src/assets/post3.jpeg",
+      "caption": "Enjoying the sunset at the beach! 🌅 #vacation #sunset",
+      "likes": 150,
+      "is_liked_by_current_user": true,
+      "comments": [
+        {
+          "comment_id": "cmt_001",
+          "user": {
+            "user_id": "user_321",
+            "username": "jane_smith",
+            "profile_picture": "src/assets/post3"
+          },
+          "text": "Beautiful view! 😍",
+          "timestamp": "2025-05-06T10:15:30Z"
+        },
+        {
+          "comment_id": "cmt_002",
+          "user": {
+            "user_id": "user_654",
+            "username": "mike_lee",
+            "profile_picture": "src/assets/dp2.jpeg"
+          },
+          "text": "Wish I was there!",
+          "timestamp": "2025-05-06T11:00:00Z"
+        }
+      ],
+      "timestamp": "2025-05-06T09:00:00Z",
+      "location": "Malibu Beach, California",
+      "tags": [
+        "vacation",
+        "sunset",
+        "beach"
+      ]
+    }
+  ],
+  "profile": {
+    "user_id": "user_789",
+    "username": "elangavi_28",
+    "profile_picture": "src/assets/dp.jpeg"
+  },
+  "Suggestions": [
+    {
+      "user_id": "user_788",
+      "username": "unique_person_mr",
+      "profile_picture": "src/assets/dp2.jpeg",
+      "id": "afbf"
+    },
+    {
+      "user_id": "user_787",
+      "username": "vjvishva_g",
+      "profile_picture": "src/assets/dp3.jpeg",
+      "id": "3a64"
+    },
+    {
+      "user_id": "user_786",
+      "username": "_shah_id__",
+      "profile_picture": "src/assets/dp4.jpeg",
+      "id": "6f3e"
+    },
+    {
+      "user_id": "user_785",
+      "username": "_iamadhiyamaan",
+      "profile_picture": "src/assets/dp5.jpeg",
+      "id": "4bf4"
+    },
+    {
+      "user_id": "user_784",
+      "username": "raamki_._",
+      "profile_picture": "src/assets/dp6.jpeg",
+      "id": "e012"
+    },
+    {
+      "user_id": "user_783",
+      "username": "__loga_samraj_",
+      "profile_picture": "src/assets/dp7.jpeg",
+      "id": "a1db"
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "user": {
+        "user_id": "user_789",
+        "username": "elangavi_28",
+        "profile_picture": "src/assets/dp.jpeg"
+      },
+      "image": "/src/assets/sp1.jpeg"
+    },
+    {
+      "id": "2",
+      "user": {
+        "user_id": "user_788",
+        "username": "unique_person_mr",
+        "profile_picture": "src/assets/dp2.jpeg"
+      },
+      "image": "/src/assets/sp2.jpeg"
+    },
+    {
+      "id": "3",
+      "user": {
+        "user_id": "user_787",
+        "username": "vjvishva_g",
+        "profile_picture": "src/assets/dp3.jpeg"
+      },
+      "image": "/src/assets/sp3.jpeg"
+    },
+    {
+      "id": "4",
+      "user": {
+        "user_id": "user_786",
+        "username": "_shah_id__",
+        "profile_picture": "src/assets/dp4.jpeg"
+      },
+      "image": "/src/assets/sp1.jpeg"
+    },
+    {
+      "id": "5",
+      "user": {
+        "user_id": "user_785",
+        "username": "_iamadhiyamaan",
+        "profile_picture": "src/assets/dp5.jpeg"
+      },
+      "image": "/src/assets/sp2.jpeg"
+    },
+    {
+      "id": "6",
+      "user": {
+        "user_id": "user_784",
+        "username": "raamki_._",
+        "profile_picture": "src/assets/dp6.jpeg"
+      },
+      "image": "/src/assets/sp3.jpeg"
+    },
+    {
+      "id": "7",
+      "user": {
+        "user_id": "user_783",
+        "username": "__loga_samraj_",
+        "profile_picture": "src/assets/dp7.jpeg"
+      },
+      "image": "/src/assets/sp2.jpeg"
+    }
+  ],
+  "Followers": []
+}
